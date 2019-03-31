@@ -1,0 +1,3 @@
+#app_MyContent:
+#  path: /home
+#  controller: App\Controller\HomePageController::home
